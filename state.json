@@ -1,41 +1,15 @@
 {
  "version": 1,
- "seq": 4,
- "phase": "reveal",
- "round_id": 1,
+ "seq": 0,
+ "phase": "idle",
+ "round_id": 0,
  "theme": null,
  "timer": {
   "duration_sec": 90,
   "remain_sec": 0
  },
- "last_correct": [
-  {
-   "name": "わわわ",
-   "points": 220,
-   "rank_in_round": 1,
-   "at_remain_sec": 71
-  },
-  {
-   "name": "あいうえお",
-   "points": 198,
-   "rank_in_round": 2,
-   "at_remain_sec": 54
-  }
- ],
- "round_ranking": [
-  {
-   "name": "わわわ",
-   "points": 220,
-   "rank_in_round": 1,
-   "at_remain_sec": 71
-  },
-  {
-   "name": "あいうえお",
-   "points": 198,
-   "rank_in_round": 2,
-   "at_remain_sec": 54
-  }
- ],
+ "last_correct": [],
+ "round_ranking": [],
  "total_ranking": [
   {
    "name": "テスト太郎",
@@ -50,5 +24,5 @@
    "total": 198
   }
  ],
- "answer": "いちご"
+ "answer": null
 }
