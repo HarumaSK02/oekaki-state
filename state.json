@@ -1,41 +1,16 @@
 {
  "version": 1,
- "seq": 5,
- "phase": "result",
- "round_id": 1,
+ "seq": 0,
+ "session_id": "1794696639-592736",
+ "phase": "idle",
+ "round_id": 0,
  "theme": null,
  "timer": {
   "duration_sec": 90,
   "remain_sec": 0
  },
- "last_correct": [
-  {
-   "name": "あいうえお",
-   "points": 220,
-   "rank_in_round": 1,
-   "at_remain_sec": 66
-  },
-  {
-   "name": "さしすせそ",
-   "points": 168,
-   "rank_in_round": 2,
-   "at_remain_sec": 39
-  }
- ],
- "round_ranking": [
-  {
-   "name": "あいうえお",
-   "points": 220,
-   "rank_in_round": 1,
-   "at_remain_sec": 66
-  },
-  {
-   "name": "さしすせそ",
-   "points": 168,
-   "rank_in_round": 2,
-   "at_remain_sec": 39
-  }
- ],
+ "last_correct": [],
+ "round_ranking": [],
  "total_ranking": [
   {
    "name": "あいうえお",
@@ -54,5 +29,5 @@
    "total": 168
   }
  ],
- "answer": "ロケット"
+ "answer": null
 }
