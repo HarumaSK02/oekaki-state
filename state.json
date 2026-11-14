@@ -1,7 +1,7 @@
 {
  "version": 1,
- "seq": 4,
- "phase": "reveal",
+ "seq": 5,
+ "phase": "result",
  "round_id": 1,
  "theme": null,
  "timer": {
