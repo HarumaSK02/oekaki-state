@@ -1,12 +1,12 @@
 {
  "version": 1,
- "seq": 2,
+ "seq": 3,
  "phase": "drawing",
  "round_id": 1,
  "theme": null,
  "timer": {
   "duration_sec": 90,
-  "remain_sec": 49
+  "remain_sec": 29
  },
  "last_correct": [
   {
@@ -14,6 +14,12 @@
    "points": 220,
    "rank_in_round": 1,
    "at_remain_sec": 66
+  },
+  {
+   "name": "さしすせそ",
+   "points": 168,
+   "rank_in_round": 2,
+   "at_remain_sec": 39
   }
  ],
  "round_ranking": [
@@ -22,6 +28,12 @@
    "points": 220,
    "rank_in_round": 1,
    "at_remain_sec": 66
+  },
+  {
+   "name": "さしすせそ",
+   "points": 168,
+   "rank_in_round": 2,
+   "at_remain_sec": 39
   }
  ],
  "total_ranking": [
@@ -36,6 +48,10 @@
   {
    "name": "わわわ",
    "total": 320
+  },
+  {
+   "name": "さしすせそ",
+   "total": 168
   }
  ],
  "answer": null
