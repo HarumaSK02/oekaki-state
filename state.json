@@ -1,16 +1,30 @@
 {
  "version": 1,
- "seq": 2,
+ "seq": 3,
  "session_id": "1794697159-96731",
  "phase": "drawing",
  "round_id": 1,
  "theme": null,
  "timer": {
   "duration_sec": 90,
-  "remain_sec": 89
+  "remain_sec": 69
  },
- "last_correct": [],
- "round_ranking": [],
+ "last_correct": [
+  {
+   "name": "た",
+   "points": 220,
+   "rank_in_round": 1,
+   "at_remain_sec": 70
+  }
+ ],
+ "round_ranking": [
+  {
+   "name": "た",
+   "points": 220,
+   "rank_in_round": 1,
+   "at_remain_sec": 70
+  }
+ ],
  "total_ranking": [
   {
    "name": "あいうえお",
@@ -19,6 +33,10 @@
   {
    "name": "テスト太郎",
    "total": 376
+  },
+  {
+   "name": "た",
+   "total": 358
   },
   {
    "name": "わわわ",
@@ -39,10 +57,6 @@
   {
    "name": "あ",
    "total": 162
-  },
-  {
-   "name": "た",
-   "total": 138
   }
  ],
  "answer": null
