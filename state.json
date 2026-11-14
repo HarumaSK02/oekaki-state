@@ -1,12 +1,12 @@
 {
  "version": 1,
- "seq": 3,
- "phase": "drawing",
+ "seq": 4,
+ "phase": "reveal",
  "round_id": 1,
  "theme": null,
  "timer": {
   "duration_sec": 90,
-  "remain_sec": 29
+  "remain_sec": 0
  },
  "last_correct": [
   {
@@ -54,5 +54,5 @@
    "total": 168
   }
  ],
- "answer": null
+ "answer": "ロケット"
 }
