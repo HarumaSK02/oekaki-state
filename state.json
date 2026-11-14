@@ -1,12 +1,12 @@
 {
  "version": 1,
- "seq": 6,
+ "seq": 7,
  "phase": "drawing",
  "round_id": 2,
  "theme": null,
  "timer": {
   "duration_sec": 90,
-  "remain_sec": 29
+  "remain_sec": 9
  },
  "last_correct": [],
  "round_ranking": [],
