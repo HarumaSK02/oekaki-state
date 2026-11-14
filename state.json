@@ -1,13 +1,13 @@
 {
  "version": 1,
- "seq": 6,
+ "seq": 7,
  "session_id": "1794696648-347120",
- "phase": "drawing",
+ "phase": "reveal",
  "round_id": 1,
  "theme": null,
  "timer": {
   "duration_sec": 90,
-  "remain_sec": 33
+  "remain_sec": 0
  },
  "last_correct": [
   {
@@ -89,5 +89,5 @@
    "total": 138
   }
  ],
- "answer": null
+ "answer": "テーブル"
 }
