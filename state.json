@@ -1,8 +1,8 @@
 {
  "version": 1,
- "seq": 8,
- "phase": "reveal",
- "round_id": 2,
+ "seq": 0,
+ "phase": "idle",
+ "round_id": 0,
  "theme": null,
  "timer": {
   "duration_sec": 90,
@@ -20,5 +20,5 @@
    "total": 100
   }
  ],
- "answer": "てぶくろ"
+ "answer": null
 }
