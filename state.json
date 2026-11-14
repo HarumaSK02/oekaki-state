@@ -1,1 +1,20 @@
-{"version":1,"seq":0,"phase":"idle","round_id":0,"theme":null,"timer":{"duration_sec":90,"remain_sec":90},"last_correct":[],"round_ranking":[],"total_ranking":[],"answer":null}
+{
+ "version": 1,
+ "seq": 0,
+ "phase": "idle",
+ "round_id": 0,
+ "theme": null,
+ "timer": {
+  "duration_sec": 90,
+  "remain_sec": 0
+ },
+ "last_correct": [],
+ "round_ranking": [],
+ "total_ranking": [
+  {
+   "name": "テスト太郎",
+   "total": 220
+  }
+ ],
+ "answer": null
+}
