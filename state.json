@@ -1,12 +1,12 @@
 {
  "version": 1,
- "seq": 7,
- "phase": "drawing",
+ "seq": 8,
+ "phase": "reveal",
  "round_id": 2,
  "theme": null,
  "timer": {
   "duration_sec": 90,
-  "remain_sec": 9
+  "remain_sec": 0
  },
  "last_correct": [],
  "round_ranking": [],
@@ -20,5 +20,5 @@
    "total": 100
   }
  ],
- "answer": null
+ "answer": "てぶくろ"
 }
