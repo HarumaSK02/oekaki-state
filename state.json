@@ -1,13 +1,13 @@
 {
  "version": 1,
- "seq": 12,
+ "seq": 13,
  "session_id": "1794697159-96731",
- "phase": "drawing",
+ "phase": "reveal",
  "round_id": 2,
  "theme": null,
  "timer": {
   "duration_sec": 90,
-  "remain_sec": 9
+  "remain_sec": 0
  },
  "last_correct": [
   {
@@ -75,5 +75,5 @@
    "total": 162
   }
  ],
- "answer": null
+ "answer": "いす"
 }
