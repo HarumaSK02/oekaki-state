@@ -1,51 +1,16 @@
 {
  "version": 1,
- "seq": 9,
- "session_id": "1794701484-556577",
- "phase": "reveal",
- "round_id": 2,
+ "seq": 0,
+ "session_id": "1794703489-869944",
+ "phase": "idle",
+ "round_id": 0,
  "theme": null,
  "timer": {
   "duration_sec": 90,
   "remain_sec": 0
  },
- "last_correct": [
-  {
-   "name": "テスト太郎",
-   "points": 220,
-   "rank_in_round": 1,
-   "at_remain_sec": 75
-  },
-  {
-   "name": "太郎",
-   "points": 210,
-   "rank_in_round": 2,
-   "at_remain_sec": 68
-  }
- ],
- "round_ranking": [
-  {
-   "name": "テスト太郎",
-   "points": 220,
-   "rank_in_round": 1,
-   "at_remain_sec": 75
-  },
-  {
-   "name": "太郎",
-   "points": 210,
-   "rank_in_round": 2,
-   "at_remain_sec": 68
-  }
- ],
- "total_ranking": [
-  {
-   "name": "テスト太郎",
-   "total": 440
-  },
-  {
-   "name": "太郎",
-   "total": 210
-  }
- ],
- "answer": "くも"
+ "last_correct": [],
+ "round_ranking": [],
+ "total_ranking": [],
+ "answer": null
 }
