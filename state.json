@@ -1,13 +1,13 @@
 {
  "version": 1,
- "seq": 7,
+ "seq": 8,
  "session_id": "1794701484-556577",
  "phase": "drawing",
  "round_id": 2,
  "theme": null,
  "timer": {
   "duration_sec": 90,
-  "remain_sec": 75
+  "remain_sec": 67
  },
  "last_correct": [
   {
@@ -15,6 +15,12 @@
    "points": 220,
    "rank_in_round": 1,
    "at_remain_sec": 75
+  },
+  {
+   "name": "太郎",
+   "points": 210,
+   "rank_in_round": 2,
+   "at_remain_sec": 68
   }
  ],
  "round_ranking": [
@@ -23,12 +29,22 @@
    "points": 220,
    "rank_in_round": 1,
    "at_remain_sec": 75
+  },
+  {
+   "name": "太郎",
+   "points": 210,
+   "rank_in_round": 2,
+   "at_remain_sec": 68
   }
  ],
  "total_ranking": [
   {
    "name": "テスト太郎",
    "total": 440
+  },
+  {
+   "name": "太郎",
+   "total": 210
   }
  ],
  "answer": null
