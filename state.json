@@ -1,13 +1,13 @@
 {
  "version": 1,
- "seq": 8,
+ "seq": 9,
  "session_id": "1794701484-556577",
- "phase": "drawing",
+ "phase": "reveal",
  "round_id": 2,
  "theme": null,
  "timer": {
   "duration_sec": 90,
-  "remain_sec": 67
+  "remain_sec": 0
  },
  "last_correct": [
   {
@@ -47,5 +47,5 @@
    "total": 210
   }
  ],
- "answer": null
+ "answer": "くも"
 }
