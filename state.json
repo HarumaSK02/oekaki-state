@@ -1,13 +1,13 @@
 {
  "version": 1,
- "seq": 2,
+ "seq": 3,
  "session_id": "1794701484-556577",
  "phase": "drawing",
  "round_id": 1,
  "theme": null,
  "timer": {
   "duration_sec": 90,
-  "remain_sec": 61
+  "remain_sec": 9
  },
  "last_correct": [
   {
