@@ -1,20 +1,34 @@
 {
  "version": 1,
- "seq": 6,
+ "seq": 7,
  "session_id": "1794701484-556577",
  "phase": "drawing",
  "round_id": 2,
  "theme": null,
  "timer": {
   "duration_sec": 90,
-  "remain_sec": 89
+  "remain_sec": 75
  },
- "last_correct": [],
- "round_ranking": [],
+ "last_correct": [
+  {
+   "name": "テスト太郎",
+   "points": 220,
+   "rank_in_round": 1,
+   "at_remain_sec": 75
+  }
+ ],
+ "round_ranking": [
+  {
+   "name": "テスト太郎",
+   "points": 220,
+   "rank_in_round": 1,
+   "at_remain_sec": 75
+  }
+ ],
  "total_ranking": [
   {
    "name": "テスト太郎",
-   "total": 220
+   "total": 440
   }
  ],
  "answer": null
