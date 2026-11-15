@@ -1,79 +1,16 @@
 {
  "version": 1,
- "seq": 13,
- "session_id": "1794697159-96731",
- "phase": "reveal",
- "round_id": 2,
+ "seq": 0,
+ "session_id": "1794701428-933699",
+ "phase": "idle",
+ "round_id": 0,
  "theme": null,
  "timer": {
   "duration_sec": 90,
   "remain_sec": 0
  },
- "last_correct": [
-  {
-   "name": "す",
-   "points": 220,
-   "rank_in_round": 1,
-   "at_remain_sec": 60
-  },
-  {
-   "name": "さ",
-   "points": 176,
-   "rank_in_round": 2,
-   "at_remain_sec": 43
-  }
- ],
- "round_ranking": [
-  {
-   "name": "す",
-   "points": 220,
-   "rank_in_round": 1,
-   "at_remain_sec": 60
-  },
-  {
-   "name": "さ",
-   "points": 176,
-   "rank_in_round": 2,
-   "at_remain_sec": 43
-  }
- ],
- "total_ranking": [
-  {
-   "name": "さ",
-   "total": 502
-  },
-  {
-   "name": "あいうえお",
-   "total": 418
-  },
-  {
-   "name": "テスト太郎",
-   "total": 376
-  },
-  {
-   "name": "た",
-   "total": 358
-  },
-  {
-   "name": "す",
-   "total": 322
-  },
-  {
-   "name": "わわわ",
-   "total": 320
-  },
-  {
-   "name": "かきくけこ",
-   "total": 220
-  },
-  {
-   "name": "さしすせそ",
-   "total": 168
-  },
-  {
-   "name": "あ",
-   "total": 162
-  }
- ],
- "answer": "いす"
+ "last_correct": [],
+ "round_ranking": [],
+ "total_ranking": [],
+ "answer": null
 }
